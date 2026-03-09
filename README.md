@@ -60,7 +60,7 @@ These steels help reduce vehicle weight while maintaining structural integrity.
 
 The full presentation can be found here:
 
-[Advanced Steels Heat Treatment Presentation](advanced-steels-heat-treatment.pdf)
+[Advanced Steels Heat Treatment Presentation](Advanced-Steels-Heat-Treatment.pdf)
 
 ---
 
